@@ -1,0 +1,5 @@
+package com.auth.secureauth.controller;
+
+public class AuthController {
+
+}

@@ -1,0 +1,5 @@
+package com.auth.secureauth.config;
+
+public class SecurityConfig {
+
+}

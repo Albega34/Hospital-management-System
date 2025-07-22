@@ -1,0 +1,5 @@
+package com.auth.secureauth.service;
+
+public class UserService {
+
+}
